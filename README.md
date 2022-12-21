@@ -4,6 +4,7 @@
 # Ahora subo los gif que pidieron 
 # NO PUDE HACER EL GIF PERO ACA ABAJO ESTA EL VIDEO
 ![vid] https://res.cloudinary.com/dmh74auqy/video/upload/v1671629580/BLACKSTANLEY/entregareact2_peaqds.webm
+![vid] https://www.youtube.com/watch?v=YHaG7xr-C9s
 
 ## Librerias usadas:
 
