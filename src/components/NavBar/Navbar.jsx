@@ -1,7 +1,7 @@
 // BOOTSTRAP
 import Navbar from 'react-bootstrap/Navbar';
 
-// REACT BOOTSTRAP-ICONS
+// REACT BOOTSTRAP-ICONOS
 import { List } from 'react-bootstrap-icons';
 
 // REACT COMPONENTES

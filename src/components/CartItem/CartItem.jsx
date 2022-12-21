@@ -1,11 +1,11 @@
 // BOOTSTRAP
 import Card from 'react-bootstrap/Card';
 
-// CUSTOM COMPONENTS
+// CUSTOM COMPONENTES
 import { useCartContext } from '../../context/CartContext';
 import CartCount from '../CartCount/CartCount';
 
-// STYLES
+// ESTILOS
 import './CartItem.scss';
 
 const CartItem = () => {

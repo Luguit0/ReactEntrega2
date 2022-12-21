@@ -5,9 +5,10 @@ import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom';
 import NavBar from './components/NavBar/Navbar';
 import Home from './components/Home/Home';
 import CartContextProvider from './context/CartContext';
-import ItemListContainer from './containers/ItemListContainer/ItemListContainer';
-import ItemDetailContainer from './containers/ItemDetailContainer/ItemDetailContainer';
+import ItemListContainer from './components/ItemListContainer/ItemListContainer';
+import ItemDetailContainer from './components/ItemDetailContainer/ItemDetailContainer';
 import CartContainer from './containers/CartContainer/CartContainer';
+
 
 // ESTILOS
 import './App.scss';
@@ -31,7 +32,7 @@ function App() {
             />
             <Route
               index
-              path='/category/:productCategory'
+              path='/category/:categoryId'
               element={<ItemListContainer />}
             />
             <Route

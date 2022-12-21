@@ -1,10 +1,10 @@
 // BOOTSTRA
 import Table from 'react-bootstrap/Table';
 
-// CUSTOM COMPONENTS
+// CUSTOM COMPONENTES
 import { useCartContext } from '../../context/CartContext';
 
-// STYLES
+// ESTILOS
 import './CartTotal.scss';
 
 const CartTotal = () => {

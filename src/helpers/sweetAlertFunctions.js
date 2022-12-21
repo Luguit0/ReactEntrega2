@@ -9,8 +9,8 @@ import Swal from 'sweetalert2';
  */
 export const orderAlert = (resp, inputData) => {
   Swal.fire({
-    title: `Thank you, ${inputData.name}. We're processing your order!`,
-    html: `<p>The code of your order is <b>${resp.id}</b></p>`,
+    title: `Gracias, ${inputData.name}. Estamos procesando tu orden!`,
+    html: `<p>El codigo de tu orden es: <b>${resp.id}</b></p>`,
     icon: 'success',
     iconColor: '#d87d4a',
     confirmButtonColor: '#d87d4a',
@@ -28,7 +28,7 @@ export const toastAddProduct = product => {
     timer: 2000,
     icon: 'success',
     iconColor: '#d87d4a',
-    title: `Added ${product.name}`,
+    title: `Agregado! ${product.name}`,
   });
 };
 
@@ -42,8 +42,8 @@ export const toastAddProduct = product => {
 export const maxStockAlert = (count, stock, name) => {
   count === stock &&
     Swal.fire({
-      title: `Sorry!`,
-      html: `<p>We only have <b>${stock} ${name}</b> in stock</p>`,
+      title: `Lo Siento`,
+      html: `<p>Solo tenemos <b>${stock} ${name}</b> en Stock</p>`,
       icon: 'error',
       confirmButtonColor: '#d87d4a',
       timer: 2000,
