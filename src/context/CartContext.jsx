@@ -51,8 +51,8 @@ const CartContextProvider = ({ children }) => {
                 setCartList,
                 addCart,
                 removeItemCart,
-                clearCart,
                 totalPrice,
+                clearCart,
             }}
         >
             {children}
