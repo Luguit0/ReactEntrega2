@@ -1,8 +1,8 @@
 # Bienvenidos a BlackStanley ( E-Commerce Proyecto)
 
 # Proyecto Personal sobre el emprendimiento de mi pareja y mio.
-# Ahora subo los gif que pidieron
-# 
+# Ahora subo los gif que pidieron 
+# NO PUDE HACER EL GIF PERO ACA ABAJO ESTA EL VIDEO
 ![vid] https://res.cloudinary.com/dmh74auqy/video/upload/v1671629580/BLACKSTANLEY/entregareact2_peaqds.webm
 
 ## Librerias usadas:
