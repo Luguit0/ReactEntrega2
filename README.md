@@ -15,7 +15,7 @@
 
 # Proyecto Personal sobre el emprendimiento de mi pareja y mio.
 # Ahora subo los gif que pidieron
-
+#
 
 
 
